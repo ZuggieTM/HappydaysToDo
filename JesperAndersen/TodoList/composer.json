@@ -1,0 +1,13 @@
+{
+    "name": "jesperandersen/todolist",
+    "description": "Lille projekt for Happydays",
+    "minimum-stability": "dev",
+    "autoload" : {
+        "psr-4": {
+            "JesperAndersen\\TodoList": "src/"
+        }
+    },
+    "require": {
+        "illuminate/support": "~5"
+    }
+}
